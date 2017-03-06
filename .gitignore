@@ -1,3 +1,5 @@
 .idea
 .gradle/
 build/
+gs-rest-service.iml
+target/
